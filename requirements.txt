@@ -1,0 +1,9 @@
+pandas
+seaborn
+matplotlib
+pyculiarity
+requests
+sesd
+keras
+numpy
+jupyter
