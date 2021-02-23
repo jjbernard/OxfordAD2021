@@ -1,5 +1,6 @@
 # OxfordAD2021
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jjbernard/OxfordAD2021/HEAD)
+
 Course repository for the 2021 version of my course at the University of Oxford
 
 **WARNING**: The code will **NOT** work with Python 3.9 and above as `tensorflow` (which is the underlying tensor library for `Keras`) does not support Python 3.9. 
