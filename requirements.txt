@@ -2,6 +2,7 @@ numpy
 pandas
 seaborn
 matplotlib
+scikit-learn
 pyculiarity
 requests
 sesd
